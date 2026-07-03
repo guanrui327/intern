@@ -7,7 +7,11 @@
       "Bash(git rm *)",
       "Bash(git add *)",
       "Bash(git commit -m 'feat: init project — 煤矿设备数据分析建模（阶段一完成） *)",
-      "Bash(git config *)"
+      "Bash(git config *)",
+      "Bash(git remote *)",
+      "Bash(git push *)",
+      "Bash(gh auth *)",
+      "Bash(curl *)"
     ]
   }
 }
