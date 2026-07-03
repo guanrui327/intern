@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# 环境
+.env
+venv/
+.venv/
+
+# 原始数据（大文件，不进git）
+data/
+
+# 产出（可复现，不提交）
+output/
+
+# 记忆系统（会话持久化，不提交）
+memory/

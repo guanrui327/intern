@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python *)",
+      "Bash(pip list *)",
+      "Bash(pip install *)",
+      "Bash(git rm *)",
+      "Bash(git add *)",
+      "Bash(git commit -m 'feat: init project — 煤矿设备数据分析建模（阶段一完成） *)",
+      "Bash(git config *)"
+    ]
+  }
+}
