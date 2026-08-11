@@ -104,3 +104,78 @@ ZZJ_MONITOR_POINTS = [
 # on-change 重采样默认频率
 DEFAULT_RESAMPLE_FREQ = "1min"
 CHUNK_SIZE = 500_000
+
+# ── 分部位工况 ──
+CMJ_PART_COND_COLS = [
+    "截割部_工况",
+    "牵引部_工况",
+    "油泵_工况",
+    "破碎机_工况",
+]
+DEVICE_COND_COL = "设备_工况"
+
+# 部位→该部位聚焦的监测参数关键词（用于箱线图定位）
+CMJ_PART_MONITOR_MAP: dict[str, list[str]] = {
+    "截割部": ["滚筒", "电机_电流", "电机_温度", "角度"],
+    "牵引部": ["牵引", "电机_电流", "电机_温度", "速度"],
+    "油泵":   ["油泵", "电流", "温度", "油压"],
+    "破碎机": ["破碎机", "电流", "温度"],
+}
+
+# 部位→该部位状态列对应的特征关键词（用于聚类）
+CMJ_PART_CLUSTER_FEATURES: dict[str, list[str]] = {
+    "截割部": ["滚筒_电机_电流", "滚筒_电机_温度", "摇臂_角度"],
+    "牵引部": ["牵引部位.*电机_电流", "采煤机速度", "牵引部位.*电机_温度"],
+    "油泵":   ["油泵.*电流", "油泵.*温度", "油泵.*油压"],
+    "破碎机": ["破碎机.*电流", "破碎机.*温度"],
+}
+
+# 转载机聚类特征关键词
+ZZJ_PART_CLUSTER_FEATURES: dict[str, list[str]] = {
+    "转载机": ["电机_电流", "电机_转速", "电机_转矩", "链条速度",
+               "变频器.*温度", "冷却水.*温度"],
+}
+
+# ── 工况阈值参数 ──
+# 截割部高度阈值（m）：拆分待机-高位 与 割煤低/中/高位
+CUT_HEIGHT_LOW = 3.0   # m，割煤低位 上界
+CUT_HEIGHT_MID = 5.0   # m，割煤中位 上界
+CUT_HEIGHT_HIGH = 4.5  # m，待机-高位 下界
+# 牵引部电流阈值（区分空载/重载）
+TRACTION_CURRENT_THRESHOLD = 100.0  # A
+# 油泵油压阈值（区分轻载/重载）
+PUMP_PRESSURE_THRESHOLD = 1.0  # MPa
+# 破碎机电流阈值（区分空载/带载）
+CRUSHER_CURRENT_THRESHOLD = 50.0  # A
+# 转载机电流阈值（区分空载/带载）
+ZZJ_CURRENT_THRESHOLD = 50.0  # A
+
+# ZZJ 部位工况列名（保持与 CMJ _工作 后缀对齐）
+ZZJ_COND_COL = "工况"
+
+# ── 阶段二路径 ──
+PHASE1_DIR = OUTPUT_DIR / "phase1"
+PHASE2_DIR = OUTPUT_DIR / "phase2"
+PHASE2_PROFILES = PHASE2_DIR / "profiles"
+PHASE2_WINDOWS = PHASE2_DIR / "windows"
+PHASE2_ANOMALIES = PHASE2_DIR / "anomalies"
+
+# 阶段二参数
+SLIDING_WINDOW = 5       # 滑动窗口大小（分钟）
+SLIDING_STEP = 1          # 步长（分钟）
+MIN_BASELINE_SAMPLES = 60 # 每种工况最低样本数
+MAHALANOBIS_ALPHA = 0.001 # 马氏距离 χ² 分位数显著性
+IF_CONTAMINATION = "auto" # Isolation Forest 异常比例
+RESIDUAL_WINDOW = 5       # 残差检测前向窗口
+
+# 降维参数
+USE_PCA = True            # 多变量检测前是否先 PCA 降维
+PCA_VARIANCE_RATIO = 0.95 # 保留的累积方差比例
+
+# 频域特征集成
+# 2026-08-04 关闭：频域集成引入噪声导致 ZZJ Mahalanobis 恶化(45.8%)，
+# 且样本损失根因是 rolling corr 的 NaN（见 feature_extract.py corr fillna）。
+# run_phase2.py Step 2b 块保留为死代码，日后开关只改这里。
+ENABLE_FREQ_FEATURES = False   # 是否将频域特征加入异常检测
+FREQ_WINDOW = 30               # FFT 窗口大小（帧数，30min 保证频率分辨率）
+FREQ_STEP = 5                  # FFT 步长（帧数）
