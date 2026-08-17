@@ -179,3 +179,42 @@ PCA_VARIANCE_RATIO = 0.95 # 保留的累积方差比例
 ENABLE_FREQ_FEATURES = False   # 是否将频域特征加入异常检测
 FREQ_WINDOW = 30               # FFT 窗口大小（帧数，30min 保证频率分辨率）
 FREQ_STEP = 5                  # FFT 步长（帧数）
+
+# ── 阶段三路径（多设备关联异常检测）──
+PHASE3_DIR = OUTPUT_DIR / "phase3"
+PHASE3_DATA = PHASE3_DIR / "data"
+PHASE3_FIGURES = PHASE3_DIR / "figures"
+PHASE3_REPORTS = PHASE3_DIR / "reports"
+
+# 阶段三：跨设备关联参数
+JOINT_COND_COL = "联合工况"    # 系统联合工况列名
+# 上游产量代理特征（CMJ，物理耦合 X）
+CMJ_PROD_FEATURES = [
+    "采煤机_牵引部位_采煤机速度",
+    "采煤机_截割部位_右滚筒_电机_电流",
+    "采煤机_截割部位_左滚筒_电机_电流",
+    "采煤机_截割部位_右滚筒_高度",
+    "采煤机_截割部位_左滚筒_高度",
+]
+# 下游负载响应（ZZJ，物理耦合 y/相关特征）
+ZZJ_LOAD_FEATURES = [
+    "三机_转载机_电机_电流",
+    "三机_转载机_电机_转矩",
+    "三机_转载机_链条速度",
+]
+ZZJ_LOAD_TARGET = "三机_转载机_电机_电流"
+# 跨设备 Mahalanobis 联合特征（CMJ 产量 + ZZJ 负载）。
+# 剔除母线电压（开关量双峰）与链条速度（开关式恒量重尾，生产运行内
+# p25~p75=1794~1876 但含 0/2193 极值，MCD 挤窄带后尾部全标异常，
+# 实测致异常率 17% 泛滥）——两者同因：恒量特征污染协方差。
+JOINT_MAHAL_FEATURES = (
+    CMJ_PROD_FEATURES
+    + ["三机_转载机_电机_电流", "三机_转载机_电机_转矩"]
+)
+
+# 煤流传播滞后测试窗口（分钟）
+MAX_LAG_MIN = 5
+# 回归残差异常阈值（IQR 倍数 / 绝对值 A）
+RESIDUAL_IQR_MULT = 3.0
+# 事件传导对齐窗口（分钟）
+PROPAGATION_WINDOW_MIN = 10
