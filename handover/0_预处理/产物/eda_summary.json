@@ -1,0 +1,610 @@
+{
+  "cmj": {
+    "file": "D:\\cursorproject\\intern\\data\\cmj-20240401-20240601（采煤机）\\cmj-20240401-20240601.csv",
+    "file_size_mb": 2303.91,
+    "rows": 10000000,
+    "point_count": 60,
+    "time_start": "2024-04-01 00:00:00",
+    "time_end": "2024-04-28 05:03:15",
+    "points": [
+      {
+        "point_name": "采煤机_冷却水_压力",
+        "count": 11229,
+        "value_min": 0.0,
+        "value_max": 2.0,
+        "value_mean": 0.7129753317303411
+      },
+      {
+        "point_name": "采煤机_功能_截割统计_中班_刀数",
+        "count": 144,
+        "value_min": 0.0,
+        "value_max": 7.0,
+        "value_mean": 2.375
+      },
+      {
+        "point_name": "采煤机_功能_截割统计_中班_架数",
+        "count": 1759,
+        "value_min": 0.0,
+        "value_max": 163.0,
+        "value_mean": 73.86924388857305
+      },
+      {
+        "point_name": "采煤机_功能_截割统计_夜班_刀数",
+        "count": 169,
+        "value_min": 0.0,
+        "value_max": 6.0,
+        "value_mean": 2.7159763313609466
+      },
+      {
+        "point_name": "采煤机_功能_截割统计_夜班_架数",
+        "count": 2089,
+        "value_min": 0.0,
+        "value_max": 163.0,
+        "value_mean": 76.80756342747726
+      },
+      {
+        "point_name": "采煤机_功能_截割统计_整日_刀数",
+        "count": 318,
+        "value_min": 0.0,
+        "value_max": 14.0,
+        "value_mean": 5.509433962264151
+      },
+      {
+        "point_name": "采煤机_功能_截割统计_整日_架数",
+        "count": 4155,
+        "value_min": 0.0,
+        "value_max": 226.0,
+        "value_mean": 78.17882069795427
+      },
+      {
+        "point_name": "采煤机_功能_截割统计_早班_刀数",
+        "count": 22,
+        "value_min": 0.0,
+        "value_max": 2.0,
+        "value_mean": 0.5454545454545454
+      },
+      {
+        "point_name": "采煤机_功能_截割统计_早班_架数",
+        "count": 375,
+        "value_min": 0.0,
+        "value_max": 159.0,
+        "value_mean": 60.330666666666666
+      },
+      {
+        "point_name": "采煤机_干预状态右侧",
+        "count": 2944,
+        "value_min": -2.0,
+        "value_max": 9.0,
+        "value_mean": 1.6749320652173914
+      },
+      {
+        "point_name": "采煤机_干预状态左侧",
+        "count": 2752,
+        "value_min": -2.0,
+        "value_max": 9.0,
+        "value_mean": 1.6184593023255813
+      },
+      {
+        "point_name": "采煤机_截割部位_右摇臂_角度",
+        "count": 89172,
+        "value_min": -19.0,
+        "value_max": 58.0,
+        "value_mean": 9.167249809357198
+      },
+      {
+        "point_name": "采煤机_截割部位_右滚筒_电机_温度",
+        "count": 33112,
+        "value_min": 0.0,
+        "value_max": 92.0,
+        "value_mean": 64.69225658371587
+      },
+      {
+        "point_name": "采煤机_截割部位_右滚筒_电机_电流",
+        "count": 716546,
+        "value_min": 0.0,
+        "value_max": 1173.0,
+        "value_mean": 99.46476150868193
+      },
+      {
+        "point_name": "采煤机_截割部位_右滚筒_电机_运行状态",
+        "count": 5877,
+        "value_min": 0.0,
+        "value_max": 8.0,
+        "value_mean": 3.1191083886336566
+      },
+      {
+        "point_name": "采煤机_截割部位_右滚筒_运行状态",
+        "count": 2700,
+        "value_min": 0.0,
+        "value_max": 1.0,
+        "value_mean": 0.5
+      },
+      {
+        "point_name": "采煤机_截割部位_右滚筒_高度",
+        "count": 220639,
+        "value_min": -1.88,
+        "value_max": 7.3,
+        "value_mean": 2.712075698312628
+      },
+      {
+        "point_name": "采煤机_截割部位_左摇臂_角度",
+        "count": 84210,
+        "value_min": -20.0,
+        "value_max": 58.0,
+        "value_mean": 8.423298895618098
+      },
+      {
+        "point_name": "采煤机_截割部位_左滚筒_电机_温度",
+        "count": 36255,
+        "value_min": 0.0,
+        "value_max": 105.0,
+        "value_mean": 69.38226451523927
+      },
+      {
+        "point_name": "采煤机_截割部位_左滚筒_电机_电流",
+        "count": 741838,
+        "value_min": 0.0,
+        "value_max": 1156.0,
+        "value_mean": 103.76509291786077
+      },
+      {
+        "point_name": "采煤机_截割部位_左滚筒_电机_运行状态",
+        "count": 9344,
+        "value_min": 0.0,
+        "value_max": 8.0,
+        "value_mean": 2.554045376712329
+      },
+      {
+        "point_name": "采煤机_截割部位_左滚筒_运行状态",
+        "count": 2890,
+        "value_min": 0.0,
+        "value_max": 1.0,
+        "value_mean": 0.5006920415224914
+      },
+      {
+        "point_name": "采煤机_截割部位_左滚筒_高度",
+        "count": 219897,
+        "value_min": -1.88,
+        "value_max": 7.3,
+        "value_mean": 2.5352854745630906
+      },
+      {
+        "point_name": "采煤机_控制模式",
+        "count": 8,
+        "value_min": 0.0,
+        "value_max": 1.0,
+        "value_mean": 0.5
+      },
+      {
+        "point_name": "采煤机_油泵_右油箱_油压",
+        "count": 125317,
+        "value_min": 0.0,
+        "value_max": 26.5,
+        "value_mean": 6.552441408587821
+      },
+      {
+        "point_name": "采煤机_油泵_右油箱_油温",
+        "count": 27340,
+        "value_min": 0.0,
+        "value_max": 75.0,
+        "value_mean": 62.135003657644475
+      },
+      {
+        "point_name": "采煤机_油泵_右电机_温度",
+        "count": 30537,
+        "value_min": 0.0,
+        "value_max": 75.0,
+        "value_mean": 49.42813635917084
+      },
+      {
+        "point_name": "采煤机_油泵_右电机_电流",
+        "count": 123283,
+        "value_min": 0.0,
+        "value_max": 285.0,
+        "value_mean": 26.19013164832134
+      },
+      {
+        "point_name": "采煤机_油泵_右电机_运行状态",
+        "count": 13989,
+        "value_min": 0.0,
+        "value_max": 4.0,
+        "value_mean": 1.2842233183215384
+      },
+      {
+        "point_name": "采煤机_油泵_左油箱_油压",
+        "count": 149319,
+        "value_min": 0.0,
+        "value_max": 26.3,
+        "value_mean": 7.284444042620161
+      },
+      {
+        "point_name": "采煤机_油泵_左油箱_油温",
+        "count": 35257,
+        "value_min": 0.0,
+        "value_max": 78.0,
+        "value_mean": 62.61352355560598
+      },
+      {
+        "point_name": "采煤机_油泵_左电机_温度",
+        "count": 32962,
+        "value_min": 0.0,
+        "value_max": 72.0,
+        "value_mean": 50.87913354772162
+      },
+      {
+        "point_name": "采煤机_油泵_左电机_电流",
+        "count": 143118,
+        "value_min": 0.0,
+        "value_max": 287.0,
+        "value_mean": 27.098638885395268
+      },
+      {
+        "point_name": "采煤机_油泵_左电机_运行状态",
+        "count": 8448,
+        "value_min": 0.0,
+        "value_max": 4.0,
+        "value_mean": 1.1669034090909092
+      },
+      {
+        "point_name": "采煤机_牵引部位_位置架号",
+        "count": 63976,
+        "value_min": 5.0,
+        "value_max": 173.0,
+        "value_mean": 88.75101600600225
+      },
+      {
+        "point_name": "采煤机_牵引部位_位置米数",
+        "count": 869567,
+        "value_min": 0.0,
+        "value_max": 355.29,
+        "value_mean": 181.7281070118806
+      },
+      {
+        "point_name": "采煤机_牵引部位_变压器_温度",
+        "count": 29515,
+        "value_min": 0.0,
+        "value_max": 91.0,
+        "value_mean": 73.78800609859394
+      },
+      {
+        "point_name": "采煤机_牵引部位_变压器_电流",
+        "count": 562544,
+        "value_min": 0.0,
+        "value_max": 298.0,
+        "value_mean": 34.360154938991435
+      },
+      {
+        "point_name": "采煤机_牵引部位_右干预模式",
+        "count": 720,
+        "value_min": 0.0,
+        "value_max": 1.0,
+        "value_mean": 0.02361111111111111
+      },
+      {
+        "point_name": "采煤机_牵引部位_右手动覆盖模式",
+        "count": 704,
+        "value_min": 0.0,
+        "value_max": 0.0,
+        "value_mean": 0.0
+      },
+      {
+        "point_name": "采煤机_牵引部位_右电机_温度",
+        "count": 34196,
+        "value_min": 0.0,
+        "value_max": 83.0,
+        "value_mean": 62.50266112995672
+      },
+      {
+        "point_name": "采煤机_牵引部位_右电机_电压",
+        "count": 917231,
+        "value_min": 0.0,
+        "value_max": 1110.0,
+        "value_mean": 830.9679023059622
+      },
+      {
+        "point_name": "采煤机_牵引部位_右电机_电流",
+        "count": 782585,
+        "value_min": 0.0,
+        "value_max": 248.0,
+        "value_mean": 120.81865995387082
+      },
+      {
+        "point_name": "采煤机_牵引部位_右电机_运行状态",
+        "count": 12719,
+        "value_min": 0.0,
+        "value_max": 4.0,
+        "value_mean": 1.259611604685903
+      },
+      {
+        "point_name": "采煤机_牵引部位_左干预模式",
+        "count": 661,
+        "value_min": 0.0,
+        "value_max": 1.0,
+        "value_mean": 0.0045385779122541605
+      },
+      {
+        "point_name": "采煤机_牵引部位_左手动覆盖模式",
+        "count": 1477,
+        "value_min": 0.0,
+        "value_max": 1.0,
+        "value_mean": 0.4989844278943805
+      },
+      {
+        "point_name": "采煤机_牵引部位_左电机_温度",
+        "count": 36705,
+        "value_min": 0.0,
+        "value_max": 82.0,
+        "value_mean": 62.10311946601281
+      },
+      {
+        "point_name": "采煤机_牵引部位_左电机_电压",
+        "count": 920641,
+        "value_min": 0.0,
+        "value_max": 1100.0,
+        "value_mean": 835.3507719078337
+      },
+      {
+        "point_name": "采煤机_牵引部位_左电机_电流",
+        "count": 777305,
+        "value_min": 0.0,
+        "value_max": 248.0,
+        "value_mean": 120.798734087649
+      },
+      {
+        "point_name": "采煤机_牵引部位_左电机_运行状态",
+        "count": 14718,
+        "value_min": 0.0,
+        "value_max": 4.0,
+        "value_mean": 1.5837749694251937
+      },
+      {
+        "point_name": "采煤机_牵引部位_方向",
+        "count": 28941,
+        "value_min": -1.0,
+        "value_max": 1.0,
+        "value_mean": 0.023012335441069762
+      },
+      {
+        "point_name": "采煤机_牵引部位_自动化暂停功能",
+        "count": 704,
+        "value_min": 0.0,
+        "value_max": 0.0,
+        "value_mean": 0.0
+      },
+      {
+        "point_name": "采煤机_牵引部位_记忆割煤状态",
+        "count": 1741,
+        "value_min": 0.0,
+        "value_max": 1.0,
+        "value_mean": 0.5358989086731764
+      },
+      {
+        "point_name": "采煤机_牵引部位_采煤机速度",
+        "count": 899833,
+        "value_min": 0.0,
+        "value_max": 16.96,
+        "value_mean": 6.519998822003638
+      },
+      {
+        "point_name": "采煤机_破碎机_电机_温度",
+        "count": 31177,
+        "value_min": 0.0,
+        "value_max": 645.0,
+        "value_mean": 47.916476890015076
+      },
+      {
+        "point_name": "采煤机_破碎机_电机_电流",
+        "count": 104932,
+        "value_min": 0.0,
+        "value_max": 348.0,
+        "value_mean": 31.2319597453589
+      },
+      {
+        "point_name": "采煤机_破碎机_电机_运行状态",
+        "count": 3709,
+        "value_min": 0.0,
+        "value_max": 8.0,
+        "value_mean": 2.83499595578323
+      },
+      {
+        "point_name": "采煤机_虚拟点_参数_记忆割煤状态",
+        "count": 815879,
+        "value_min": 0.0,
+        "value_max": 3.0,
+        "value_mean": 1.963320541403811
+      },
+      {
+        "point_name": "采煤机_虚拟点_参数_集控远程干预",
+        "count": 704,
+        "value_min": 0.0,
+        "value_max": 0.0,
+        "value_mean": 0.0
+      },
+      {
+        "point_name": "采煤机_采煤机倾角_俯仰角",
+        "count": 209102,
+        "value_min": -3.7,
+        "value_max": 5.3,
+        "value_mean": 0.7465983108722059
+      }
+    ]
+  },
+  "zzj": {
+    "file": "D:\\cursorproject\\intern\\data\\zzj-20240401-20240601（转载机）\\zzj-20240401-20240601.csv",
+    "file_size_mb": 1829.58,
+    "rows": 8304206,
+    "point_count": 24,
+    "time_start": "2024-04-01 00:00:03",
+    "time_end": "2024-05-31 15:36:49",
+    "points": [
+      {
+        "point_name": "三机_转载机_减速器_冷却水_压力",
+        "count": 44109,
+        "value_min": 0.0,
+        "value_max": 0.3,
+        "value_mean": 0.11075744179192454
+      },
+      {
+        "point_name": "三机_转载机_减速器_冷却水_流量",
+        "count": 246935,
+        "value_min": 0.0,
+        "value_max": 63.0,
+        "value_mean": 35.20857310628303
+      },
+      {
+        "point_name": "三机_转载机_减速器_冷却水_温度",
+        "count": 115975,
+        "value_min": 7.3,
+        "value_max": 67.2,
+        "value_mean": 43.77528260400949
+      },
+      {
+        "point_name": "三机_转载机_减速器_油箱_油位",
+        "count": 883644,
+        "value_min": 23.0,
+        "value_max": 752.0,
+        "value_mean": 286.28275640416274
+      },
+      {
+        "point_name": "三机_转载机_减速器_油箱_油温",
+        "count": 19492,
+        "value_min": 7.7,
+        "value_max": 79.2,
+        "value_mean": 56.861045557151655
+      },
+      {
+        "point_name": "三机_转载机_减速器_输入轴温度",
+        "count": 11611,
+        "value_min": 0.0,
+        "value_max": 69.3,
+        "value_mean": 49.016596331065365
+      },
+      {
+        "point_name": "三机_转载机_减速器_输出轴温度",
+        "count": 9075,
+        "value_min": 8.3,
+        "value_max": 79.2,
+        "value_mean": 56.62288705234159
+      },
+      {
+        "point_name": "三机_转载机_减速器_震动_减速器",
+        "count": 443456,
+        "value_min": 1.0,
+        "value_max": 135.0,
+        "value_mean": 8.498701111271467
+      },
+      {
+        "point_name": "三机_转载机_减速器_震动_电机",
+        "count": 606423,
+        "value_min": 1.0,
+        "value_max": 134.0,
+        "value_mean": 14.291666048286427
+      },
+      {
+        "point_name": "三机_转载机_变频器_IGBT1温度",
+        "count": 51803,
+        "value_min": 0.0,
+        "value_max": 64.0,
+        "value_mean": 44.059957917495126
+      },
+      {
+        "point_name": "三机_转载机_变频器_IGBT2温度",
+        "count": 49663,
+        "value_min": 0.0,
+        "value_max": 139.0,
+        "value_mean": 43.904415762237484
+      },
+      {
+        "point_name": "三机_转载机_变频器_前轴温度",
+        "count": 33097,
+        "value_min": 0.0,
+        "value_max": 69.0,
+        "value_mean": 49.6214158382935
+      },
+      {
+        "point_name": "三机_转载机_变频器_后轴温度",
+        "count": 27770,
+        "value_min": 0.0,
+        "value_max": 77.0,
+        "value_mean": 53.31462009362622
+      },
+      {
+        "point_name": "三机_转载机_变频器_母线电压",
+        "count": 1436490,
+        "value_min": -63.0,
+        "value_max": 6187.0,
+        "value_mean": 3846.9528656656157
+      },
+      {
+        "point_name": "三机_转载机_变频器_腔体温度",
+        "count": 51801,
+        "value_min": 0.0,
+        "value_max": 69.0,
+        "value_mean": 49.04762456323237
+      },
+      {
+        "point_name": "三机_转载机_变频器_腔体湿度",
+        "count": 21863,
+        "value_min": 0.0,
+        "value_max": 155.0,
+        "value_mean": 37.157800850752416
+      },
+      {
+        "point_name": "三机_转载机_变频器_运行状态",
+        "count": 4179,
+        "value_min": 0.0,
+        "value_max": 1.0,
+        "value_mean": 0.5003589375448672
+      },
+      {
+        "point_name": "三机_转载机_电机_电流",
+        "count": 1060773,
+        "value_min": 0.0,
+        "value_max": 493.0,
+        "value_mean": 87.2853079782385
+      },
+      {
+        "point_name": "三机_转载机_电机_转矩",
+        "count": 920468,
+        "value_min": -18.0,
+        "value_max": 243.0,
+        "value_mean": 29.255988258146942
+      },
+      {
+        "point_name": "三机_转载机_电机_转速",
+        "count": 1108147,
+        "value_min": -19.0,
+        "value_max": 1510.0,
+        "value_mean": 1112.127731248652
+      },
+      {
+        "point_name": "三机_转载机_设定速度",
+        "count": 5872,
+        "value_min": 0.0,
+        "value_max": 1500.0,
+        "value_mean": 956.6800068119891
+      },
+      {
+        "point_name": "三机_转载机_运行时间",
+        "count": 821,
+        "value_min": 1537.0,
+        "value_max": 2385.0,
+        "value_mean": 1956.0803897685748
+      },
+      {
+        "point_name": "三机_转载机_运行状态",
+        "count": 7175,
+        "value_min": 0.0,
+        "value_max": 3.0,
+        "value_mean": 1.1395121951219511
+      },
+      {
+        "point_name": "三机_转载机_链条速度",
+        "count": 1143564,
+        "value_min": 0.0,
+        "value_max": 2353.0,
+        "value_mean": 1735.7652365761776
+      }
+    ]
+  }
+}

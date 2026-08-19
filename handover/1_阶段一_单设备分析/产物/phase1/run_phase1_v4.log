@@ -1,0 +1,564 @@
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3036: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_function_base_impl.py:3037: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+D:\cursorproject\intern\src\visualize.py:73: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`). Consider using `matplotlib.pyplot.close()`.
+  fig, ax = plt.subplots(figsize=(14, 1.5))
+D:\cursorproject\intern\src\transition.py:288: RuntimeWarning: Mean of empty slice
+  pre_mean = np.nanmean(pre_vals)
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_nanfunctions_impl.py:1997: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  var = nanvar(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+D:\cursorproject\intern\src\transition.py:339: RuntimeWarning: Mean of empty slice
+  pre_rms = np.sqrt(np.nanmean(pre_vals ** 2))
+D:\cursorproject\intern\src\transition.py:288: RuntimeWarning: Mean of empty slice
+  pre_mean = np.nanmean(pre_vals)
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_nanfunctions_impl.py:1997: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  var = nanvar(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+D:\cursorproject\intern\src\transition.py:339: RuntimeWarning: Mean of empty slice
+  pre_rms = np.sqrt(np.nanmean(pre_vals ** 2))
+D:\cursorproject\intern\src\transition.py:288: RuntimeWarning: Mean of empty slice
+  pre_mean = np.nanmean(pre_vals)
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_nanfunctions_impl.py:1997: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  var = nanvar(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+D:\cursorproject\intern\src\transition.py:339: RuntimeWarning: Mean of empty slice
+  pre_rms = np.sqrt(np.nanmean(pre_vals ** 2))
+D:\cursorproject\intern\src\transition.py:288: RuntimeWarning: Mean of empty slice
+  pre_mean = np.nanmean(pre_vals)
+C:\Users\Administrator\miniconda3\Lib\site-packages\numpy\lib\_nanfunctions_impl.py:1997: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  var = nanvar(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+D:\cursorproject\intern\src\transition.py:339: RuntimeWarning: Mean of empty slice
+  pre_rms = np.sqrt(np.nanmean(pre_vals ** 2))
+D:\cursorproject\intern\src\transition.py:495: RuntimeWarning: invalid value encountered in divide
+  (vals_mat - row_mean) / row_std,
+D:\cursorproject\intern\src\transition.py:562: UserWarning: This figure includes Axes that are not compatible with tight_layout, so results might be incorrect.
+  fig.tight_layout()
+D:\cursorproject\intern\src\transition.py:495: RuntimeWarning: invalid value encountered in divide
+  (vals_mat - row_mean) / row_std,
+D:\cursorproject\intern\src\transition.py:500: RuntimeWarning: Mean of empty slice
+  pre_mean = np.nanmean(vals_mat[:, :half], axis=1) if half > 0 else np.zeros(vals_mat.shape[0])
+D:\cursorproject\intern\src\transition.py:562: UserWarning: This figure includes Axes that are not compatible with tight_layout, so results might be incorrect.
+  fig.tight_layout()
+D:\cursorproject\intern\src\transition.py:495: RuntimeWarning: invalid value encountered in divide
+  (vals_mat - row_mean) / row_std,
+D:\cursorproject\intern\src\transition.py:562: UserWarning: This figure includes Axes that are not compatible with tight_layout, so results might be incorrect.
+  fig.tight_layout()
+D:\cursorproject\intern\src\transition.py:562: UserWarning: This figure includes Axes that are not compatible with tight_layout, so results might be incorrect.
+  fig.tight_layout()
+D:\cursorproject\intern\src\transition.py:500: RuntimeWarning: Mean of empty slice
+  pre_mean = np.nanmean(vals_mat[:, :half], axis=1) if half > 0 else np.zeros(vals_mat.shape[0])
+D:\cursorproject\intern\src\transition.py:562: UserWarning: This figure includes Axes that are not compatible with tight_layout, so results might be incorrect.
+  fig.tight_layout()
+D:\cursorproject\intern\src\transition.py:562: UserWarning: This figure includes Axes that are not compatible with tight_layout, so results might be incorrect.
+  fig.tight_layout()
+D:\cursorproject\intern\src\transition.py:562: UserWarning: This figure includes Axes that are not compatible with tight_layout, so results might be incorrect.
+  fig.tight_layout()
+D:\cursorproject\intern\src\transition.py:500: RuntimeWarning: Mean of empty slice
+  pre_mean = np.nanmean(vals_mat[:, :half], axis=1) if half > 0 else np.zeros(vals_mat.shape[0])
+D:\cursorproject\intern\src\transition.py:562: UserWarning: This figure includes Axes that are not compatible with tight_layout, so results might be incorrect.
+  fig.tight_layout()
+D:\cursorproject\intern\src\transition.py:562: UserWarning: This figure includes Axes that are not compatible with tight_layout, so results might be incorrect.
+  fig.tight_layout()
+D:\cursorproject\intern\src\significance.py:288: UserWarning: This figure includes Axes that are not compatible with tight_layout, so results might be incorrect.
+  fig.tight_layout()
+D:\cursorproject\intern\src\significance.py:288: UserWarning: This figure includes Axes that are not compatible with tight_layout, so results might be incorrect.
+  fig.tight_layout()
+D:\cursorproject\intern\src\significance.py:288: UserWarning: This figure includes Axes that are not compatible with tight_layout, so results might be incorrect.
+  fig.tight_layout()
+D:\cursorproject\intern\src\significance.py:288: UserWarning: This figure includes Axes that are not compatible with tight_layout, so results might be incorrect.
+  fig.tight_layout()
+D:\cursorproject\intern\src\segment_stats.py:472: RuntimeWarning: invalid value encountered in divide
+  z_scores = np.where(std_v > 0, (vals_sub - p["mean"]) / std_v, 0.0)
+D:\cursorproject\intern\src\segment_stats.py:472: RuntimeWarning: invalid value encountered in divide
+  z_scores = np.where(std_v > 0, (vals_sub - p["mean"]) / std_v, 0.0)
+D:\cursorproject\intern\src\segment_stats.py:472: RuntimeWarning: invalid value encountered in divide
+  z_scores = np.where(std_v > 0, (vals_sub - p["mean"]) / std_v, 0.0)
+D:\cursorproject\intern\src\significance.py:288: UserWarning: This figure includes Axes that are not compatible with tight_layout, so results might be incorrect.
+  fig.tight_layout()
+==================================================
+阶段一：单设备分析（分部位工况）
+==================================================
+
+--- 加载数据 ---
+  加载 D:\cursorproject\intern\output\processed\cmj_wide_1min.parquet
+  行数: 39184, 列数: 37
+  加载 D:\cursorproject\intern\output\processed\zzj_wide_1min.parquet
+  行数: 87337, 列数: 15
+
+--- 数据空洞检测 ---
+  空洞数: 751
+
+--- 参数层级图谱 ---
+  CSV: D:\cursorproject\intern\output\phase1\param_hierarchy.csv
+
+===== 采煤机分部位工况划分 =====
+
+截割部_工况 分布:
+截割部_工况
+待机       11316
+割煤中位      9738
+割煤高位      7812
+调架中       4170
+待机-高位     2962
+停机        2851
+割煤低位       335
+Name: count, dtype: int64
+  → cmj_stats_by_截割部_工况.csv
+
+牵引部_工况 分布:
+牵引部_工况
+重载牵引    18501
+停机      13140
+待机       7096
+空载牵引      447
+Name: count, dtype: int64
+  → cmj_stats_by_牵引部_工况.csv
+
+油泵_工况 分布:
+油泵_工况
+重载    22603
+停机    10594
+轻载     5987
+Name: count, dtype: int64
+  → cmj_stats_by_油泵_工况.csv
+
+破碎机_工况 分布:
+破碎机_工况
+停机      22106
+空载运行    16966
+带载运行      112
+Name: count, dtype: int64
+  → cmj_stats_by_破碎机_工况.csv
+
+设备_工况 分布:
+设备_工况
+割煤中     17885
+待机      17032
+正常运行     4170
+空载牵引       97
+Name: count, dtype: int64
+
+===== 转载机工况划分 =====
+
+工况分布:
+工况
+带载运行    51717
+停机      34682
+空载运行      938
+Name: count, dtype: int64
+
+分工况统计 — 13 个监测参数
+  → D:\cursorproject\intern\output\phase1\zzj_stats_by_cond.csv
+
+--- 生成图表 ---
+
+--- 分部位工况转换检测 ---
+  截割部: 1 张图
+  牵引部: 1 张图
+  油泵: 1 张图
+  破碎机: 1 张图
+  设备级: 切换事件数=6575
+
+--- 切换时域特征提取 ---
+  设备级特征: D:\cursorproject\intern\output\phase1\transition_device_features.csv (6575 事件)
+
+--- 分部位聚类验证 ---
+  截割部: ARI=0.5682, Silhouette=0.5142
+  牵引部: ARI=0.3867, Silhouette=0.5158
+  油泵: ARI=0.7996, Silhouette=0.6537
+  破碎机: ARI=0.3496, Silhouette=0.8779
+  截割部: ARI=0.5682
+  牵引部: ARI=0.3867
+  油泵: ARI=0.7996
+  破碎机: ARI=0.3496
+
+--- 分部位 Kruskal-Wallis 显著性检验 ---
+
+  Kruskal-Wallis: 截割部 (截割部_工况)
+    CSV: D:\cursorproject\intern\output\phase1\kruskal_截割部.csv
+    热力图: D:\cursorproject\intern\output\phase1\kruskal_截割部_heatmap.png
+
+  Kruskal-Wallis: 牵引部 (牵引部_工况)
+    CSV: D:\cursorproject\intern\output\phase1\kruskal_牵引部.csv
+    热力图: D:\cursorproject\intern\output\phase1\kruskal_牵引部_heatmap.png
+
+  Kruskal-Wallis: 油泵 (油泵_工况)
+    CSV: D:\cursorproject\intern\output\phase1\kruskal_油泵.csv
+    热力图: D:\cursorproject\intern\output\phase1\kruskal_油泵_heatmap.png
+
+  Kruskal-Wallis: 破碎机 (破碎机_工况)
+    CSV: D:\cursorproject\intern\output\phase1\kruskal_破碎机.csv
+    热力图: D:\cursorproject\intern\output\phase1\kruskal_破碎机_heatmap.png
+
+--- 分段持续时间统计 ---
+  截割部_工况: ['停机', '割煤中位', '割煤低位', '割煤高位', '待机', '待机-高位', '调架中']
+    CSV: D:\cursorproject\intern\output\phase1\segment_stats_截割部_工况.csv
+  牵引部_工况: ['停机', '待机', '空载牵引', '重载牵引']
+    CSV: D:\cursorproject\intern\output\phase1\segment_stats_牵引部_工况.csv
+  油泵_工况: ['停机', '轻载', '重载']
+    CSV: D:\cursorproject\intern\output\phase1\segment_stats_油泵_工况.csv
+  破碎机_工况: ['停机', '带载运行', '空载运行']
+    CSV: D:\cursorproject\intern\output\phase1\segment_stats_破碎机_工况.csv
+    箱线图: D:\cursorproject\intern\output\phase1\segment_duration_截割部_工况.png
+    箱线图: D:\cursorproject\intern\output\phase1\segment_duration_牵引部_工况.png
+    箱线图: D:\cursorproject\intern\output\phase1\segment_duration_油泵_工况.png
+    箱线图: D:\cursorproject\intern\output\phase1\segment_duration_破碎机_工况.png
+
+--- 异常段检测 ---
+
+  持续段异常检测: 截割部_工况
+    CSV: D:\cursorproject\intern\output\phase1\anomalous_segments_截割部_工况.csv
+    异常段图: D:\cursorproject\intern\output\phase1\anomalous_segments_截割部_工况.png
+    异常: 14/9015 段 = 0.2%, 合计 3985/39184 min = 10.2%
+
+  持续段异常检测: 牵引部_工况
+    CSV: D:\cursorproject\intern\output\phase1\anomalous_segments_牵引部_工况.csv
+    异常段图: D:\cursorproject\intern\output\phase1\anomalous_segments_牵引部_工况.png
+    异常: 29/5924 段 = 0.5%, 合计 6877/39184 min = 17.6%
+
+  持续段异常检测: 油泵_工况
+    CSV: D:\cursorproject\intern\output\phase1\anomalous_segments_油泵_工况.csv
+    异常段图: D:\cursorproject\intern\output\phase1\anomalous_segments_油泵_工况.png
+    异常: 24/2647 段 = 0.9%, 合计 5114/39184 min = 13.1%
+
+  持续段异常检测: 破碎机_工况
+    CSV: D:\cursorproject\intern\output\phase1\anomalous_segments_破碎机_工况.csv
+    异常段图: D:\cursorproject\intern\output\phase1\anomalous_segments_破碎机_工况.png
+    异常: 19/1892 段 = 1.0%, 合计 9550/39184 min = 24.4%
+
+--- 数值异常检测 ---
+
+  数值异常检测: 截割部_工况
+    CSV: D:\cursorproject\intern\output\phase1\value_anomalies_截割部_工况.csv
+    异常点: 21175/822507 = 2.6%（严重 1259, 较重 377, 一般 3715）
+    异常图: D:\cursorproject\intern\output\phase1\value_anomalies_截割部_工况.png
+
+  数值异常检测: 牵引部_工况
+    CSV: D:\cursorproject\intern\output\phase1\value_anomalies_牵引部_工况.csv
+    异常点: 33668/822507 = 4.1%（严重 1386, 较重 1351, 一般 1827）
+    异常图: D:\cursorproject\intern\output\phase1\value_anomalies_牵引部_工况.png
+
+  数值异常检测: 油泵_工况
+    CSV: D:\cursorproject\intern\output\phase1\value_anomalies_油泵_工况.csv
+    异常点: 39114/822507 = 4.8%（严重 3129, 较重 1190, 一般 3029）
+    异常图: D:\cursorproject\intern\output\phase1\value_anomalies_油泵_工况.png
+
+  数值异常检测: 破碎机_工况
+    CSV: D:\cursorproject\intern\output\phase1\value_anomalies_破碎机_工况.csv
+    异常点: 16478/822507 = 2.0%（严重 682, 较重 106, 一般 10001）
+    异常图: D:\cursorproject\intern\output\phase1\value_anomalies_破碎机_工况.png
+
+--- 点数据覆盖率 ---
+  保存到 point_coverage.csv (21 个测点)
+
+========================================
+转载机深度分析（6 模块）
+========================================
+
+--- 转载机工况转换检测 ---
+  工况: 3223 个转换事件
+
+--- 转载机聚类验证 ---
+  转载机: ARI=0.8526, Silhouette=0.7109
+  转载机: ARI=0.8526
+
+--- 转载机 Kruskal-Wallis 检验 ---
+
+  Kruskal-Wallis: 转载机 (工况)
+    CSV: D:\cursorproject\intern\output\phase1\kruskal_转载机.csv
+    热力图: D:\cursorproject\intern\output\phase1\kruskal_转载机_heatmap.png
+
+--- 转载机分段持续时间统计 ---
+  工况: ['停机', '带载运行', '空载运行']
+    CSV: D:\cursorproject\intern\output\phase1\segment_stats_工况.csv
+    箱线图: D:\cursorproject\intern\output\phase1\segment_duration_工况.png
+
+--- 转载机异常段检测 ---
+
+  持续段异常检测: 工况
+    CSV: D:\cursorproject\intern\output\phase1\anomalous_segments_工况.csv
+    异常段图: D:\cursorproject\intern\output\phase1\anomalous_segments_工况.png
+    异常: 26/3224 段 = 0.8%, 合计 15828/87337 min = 18.1%
+
+--- 转载机数值异常检测 ---
+
+  数值异常检测: 工况
+    无数据
+
+--- 保存工况宽表 ---
+  D:\cursorproject\intern\output\phase1\cmj_with_condition.parquet
+  D:\cursorproject\intern\output\phase1\zzj_with_condition.parquet
+
+--- 生成报告 ---
+
+报告已生成: D:\cursorproject\intern\output\phase1\phase1_report.md
+
+--- 第二周深度分析报告 ---
+[OK] 第二周报告已生成: D:\cursorproject\intern\output\phase1\第二周_深度分析报告.docx
+    文件大小: 9216 KB
+
+[*] 阶段一分析完成。结果目录: D:\cursorproject\intern\output\phase1
+
+=== 阶段耗时汇总 (s) ===
+  加载数据                 0.0
+  数据空洞检测               4.9
+  参数层级图谱               2.9
+  工况划分                 1.4
+  生成图表                37.0
+  分部位转换检测             42.4
+  切换时域特征             307.2
+  分部位聚类验证             86.1
+  KW 检验               10.8
+  分段统计                 2.3
+  异常段检测                9.2
+  数值异常检测             136.2
+  覆盖率                  0.1
+  ZZJ 转换               6.9
+  ZZJ 聚类              20.0
+  ZZJ KW               1.9
+  ZZJ 分段               0.7
+  ZZJ 异常段              2.4
+  ZZJ 数值异常             0.2
+  保存 parquet           0.6
+  生成报告                 0.1
+  第二周 DOCX             4.0
+  总计                   0.0
