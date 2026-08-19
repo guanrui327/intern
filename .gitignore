@@ -24,3 +24,6 @@ _archive/
 
 # 本地会话配置（堆临时权限白名单，不提交）
 .claude/settings.local.json
+
+# 成果交接包（大体积产物快照，不入库）
+handover/
